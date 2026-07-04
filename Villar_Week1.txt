@@ -1,0 +1,36 @@
+<html>
+	<title>My Favorite Song</title>
+	<body>
+		<h2><strong>Fly Me to the Moon</strong></h2>
+		Song by <em>Frank Sinatra</em>
+		<p>
+			<b>Fly me to the moon</b><br>
+			<i>Let me play among the stars</i><br>
+			<b>Let me see what spring is like on</b><br>
+			<i>A-Jupiter and Mars</i><br>
+			<b>In other words, hold my hand</b><br>
+			<i>In other words, baby, kiss me</i><br>
+		</p>
+		<p>
+			<b>Fill my heart with song and let me sing forevermore</b><br>
+			<i>You are all I long for</i><br>
+			<b>All I worship and adore</b><br>
+			<i>In other words, please be true</i><br>
+			<b>In other words, I love you</b><br>
+		</p>
+		<p>	
+			<i>Fill my heart with song</i><br>
+			<b>Let me sing forevermore</b><br>
+			<i>You are all I long for, all I worship and adore</i><br>
+			<b>In other words, please be true</b><br>
+			<i>In other words</i><br>
+			<b>In other words</b><br>
+			<i>I love you</i><br>
+		</p>
+		<hr>
+		<p>
+			MADE BY <em>KURT COVIN V. VILLAR</em><br>
+			ICT CP B - TABBATH
+		</p>
+	</body>
+</html>
